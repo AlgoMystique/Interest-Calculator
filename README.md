@@ -22,7 +22,7 @@ The calculator uses the following formula for annual compounding:
 
 𝐴=𝑃(1+𝑟)𝑡A=P(1+r) t
  
-Where:
+Where,
 
 A is the amount after interest.
 P is the principal amount.
